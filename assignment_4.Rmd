@@ -4,14 +4,14 @@ title: |
   | Introduction to Applied Data Science
   | 2022-2023
 author: |
-  | Your Name
+  | Sofija Stojanović 
   | your_email@students.uu.nl
   | http://www.github.com/yourgithubname
 date: April 2023
 urlcolor: purple
 linkcolor: purple
 output: 
-  pdf_documenttttttt
+  pdf_documentttttttnn
 ---
 
 ```{r setup, include = FALSE}
