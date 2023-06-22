@@ -133,7 +133,7 @@ table
 **Question 3.8**: Write a piece of code that exports this table (without the formatting) to a Word document. 
 
 ```{r}
-
+hello
 ```
 
 ## The End
