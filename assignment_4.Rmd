@@ -133,7 +133,7 @@ table
 **Question 3.8**: Write a piece of code that exports this table (without the formatting) to a Word document. 
 
 ```{r}
-aradan cok yillar gecti cok sular aktı düştüm bu hale eller heva hevesine dusk
+aradan cok yillar gecti cok sular aktı düştüm bu hale eller heva hevesine duskasdasdas
 ```
 
 ## The End
