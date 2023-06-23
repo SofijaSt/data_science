@@ -134,7 +134,9 @@ table
 **Question 3.8**: Write a piece of code that exports this table (without the formatting) to a Word document. 
 
 ```{r}
-hello
+list(model1, model2, model3, model4) |>
+  modelsummary(stars=T, gof_map = c("nobs", "r.squared"),
+               output = 'tableassignment4.docx')
 ```
 
 ## The End
