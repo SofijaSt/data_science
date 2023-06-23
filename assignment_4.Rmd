@@ -5,8 +5,8 @@ title: |
   | 2022-2023
 author: |
   | Sofija Stojanović 
-  | your_email@students.uu.nl
-  | http://www.github.com/yourgithubname
+  | s.stojanovic@students.uu.nl
+  | http://www.github.com/SofijaSt
 date: April 2023
 urlcolor: purple
 linkcolor: purple
